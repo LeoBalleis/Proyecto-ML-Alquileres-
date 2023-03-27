@@ -8,7 +8,7 @@
 
 ## Introducción:
 
-¡Hola!  Mi nombre es Leonel Balleis, y este es un proyecto de machine Learnig Didactico.
+¡Hola!  Mi nombre es Leonel Balleis, y este es un proyecto de machine Learnig .
 
 ## Objetivos: 
 
@@ -49,7 +49,7 @@ No hay un flujo continuo de datos que ingresan al sistema, no hay necesidad de c
 
 + En el notebook `modelo.ipynb` se encuentra el código comentado paso por paso, explicando las decisiones tomadas a la hora de encarar este proyecto.
 
-+ En el archivo `my_california_housing_model.pkl` se encuentra el modelo  creado, importado con la librería de Joblib.
++ En el archivo `my_california_housing_model.pkl` se encuentra el modelo, este archivo se genera al correr el programa. 
 
 
 ## Herramientas/librerías utilizadas:
