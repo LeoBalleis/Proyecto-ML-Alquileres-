@@ -8,7 +8,7 @@
 
 ## Introducción:
 
-¡Hola!  Mi nombre es Leonel Balleis, y este es un proyecto de machine Learnig .
+Hola! Mi nombre es Leonel Balleis, y en proyecto de machine Learnig buscaré predecir los precios de las viviendas utilizando datos del censo de California de 1990.
 
 ## Objetivos: 
 
